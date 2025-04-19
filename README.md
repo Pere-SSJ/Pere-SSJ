@@ -3,7 +3,7 @@ Student from Salle URL Computing Engineering
 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=java,c,mysql,github,figma)
+![My Skills](https://skillicons.dev/icons?i=c,java,mysql,github,figma)
 
 
 
