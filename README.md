@@ -20,5 +20,5 @@
   </a>
 </p>
 
-<img align="center" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fataque-de-goku&psig=AOvVaw2CUnVI1PPfS1EoNOfzOn3W&ust=1745194318404000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCPjY48yp5YwDFQAAAAAdAAAAABAE">
+<img align="center" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg1eHozOW1qa2FlMWxvcjdvNjdneW5ra2QzZWl3dWZxengxemNsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRSnxyhJnPsaQy9YLn/giphy.gif">
 
