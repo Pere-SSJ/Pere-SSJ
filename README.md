@@ -19,3 +19,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<img align="center" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fataque-de-goku&psig=AOvVaw2CUnVI1PPfS1EoNOfzOn3W&ust=1745194318404000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCPjY48yp5YwDFQAAAAAdAAAAABAE">
+
