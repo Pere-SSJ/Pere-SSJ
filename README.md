@@ -19,7 +19,8 @@
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
+<br>
+<br>
 <div align="left" style="margin-top: 70px;">
   <img alt="300px" width="400px"
        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg1eHozOW1qa2FlMWxvcjdvNjdneW5ra2QzZWl3dWZxengxemNsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRSnxyhJnPsaQy9YLn/giphy.gif">
