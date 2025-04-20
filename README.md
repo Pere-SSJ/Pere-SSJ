@@ -20,5 +20,8 @@
   </a>
 </p>
 
-<img align="center" alt="coding" width="400px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg1eHozOW1qa2FlMWxvcjdvNjdneW5ra2QzZWl3dWZxengxemNsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRSnxyhJnPsaQy9YLn/giphy.gif">
+<div align="center" style="margin-top: 40px;">
+  <img alt="coding" width="400px"
+       src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg1eHozOW1qa2FlMWxvcjdvNjdneW5ra2QzZWl3dWZxengxemNsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRSnxyhJnPsaQy9YLn/giphy.gif">
+</div>
 
